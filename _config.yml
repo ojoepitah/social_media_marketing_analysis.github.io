@@ -1,0 +1,9 @@
+title: Social Media Marketing Sales Performance Analysis
+logo:
+description: Analysed two years of car sales data and designed an interactive Power BI dashboard that identifies and tracks CarGo USA dealership’s sales performance using real-time KPIs and dynamic visuals to support data-driven decision-making.
+#show_downloads: true
+#google_analytics:
+aux_links:
+  "Interact with Dashboard here":
+    - "https://github.com/ojoepitah/sql-sales-analysis"
+theme: jekyll-theme-minimal
