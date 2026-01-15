@@ -3,12 +3,19 @@
 ## Table of Content
 
 [Executive Summary](#executive-summary)
+
 [Summary Insights and Findings](#summary-insights-and-findings)
+
 [Project Objective](#project-objective)
+
 [Data Overview](#data-overview)
+
 [Key Insights and Findings](#key-insights-and-findings)
+
 [Recommendations](#recommendations)
+
 [Tools and Technologies Used](#tools-and-technologies-used)
+
 [How This Project Demonstrates My Skills](#how-this-project-demonstrates-my-skills)
 
 ## Executive Summary
