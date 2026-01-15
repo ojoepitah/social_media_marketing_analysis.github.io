@@ -1,8 +1,24 @@
 # Social Media Marketing Analysis
 
-## Executive Summary
+## Table of Content
 
-## Key Insights and Findings (Summary)
+[Executive Summary](#executive-summary)
+[Summary Insights and Findings](#summary-insights-and-findings)
+[Project Objective](#project-objective)
+[Data Overview](#data-overview)
+[Key Insights and Findings](#key-insights-and-findings)
+[Recommendations](#recommendations)
+[Tools and Technologies Used](#tools-and-technologies-used)
+[How This Project Demonstrates My Skills](#how-this-project-demonstrates-my-skills)
+
+## Executive Summary
+This project analyses paid advertising performance across Facebook and Instagram to evaluate campaign effectiveness, audience behaviour, and return on ad spend. Using Meta Ads performance data, I built a structured data model and Power BI dashboard to track key KPIs including reach, engagement, conversions, and efficiency metrics.
+
+The analysis shows that while campaigns achieve strong visibility and audience engagement—particularly among females aged 18–32—the conversion funnel underperforms, with only 0.60% of impressions resulting in purchases. Story and Image ad formats consistently outperform others, and engagement peaks during afternoon and evening hours across high-value markets such as the US and UK.
+
+By identifying where users drop off in the purchase journey, this project provides clear, actionable recommendations to improve conversion rates, optimise ad scheduling, and reallocate budgets toward high-performing audiences and formats—demonstrating strong analytical thinking and commercial awareness.
+
+## Summary Insights and Findings
 - High CTR (11.79%) and Engagement Rate (13.58%)
 - Low Purchase Rate (0.60%) and only 2K conversions out of 339.8K impressions
 - Strong awareness and engagements
@@ -12,6 +28,7 @@
 [Jump to Detailed Insight](#key-insights-and-findings)
 
 ## Project Objective
+
 The business needs a performance tracking report for advertising campaigns running on Facebook and Instagram. The report provides visibility into campaign reach, engagement, conversions, and budget utilization.
 
 This will enable the marketing team to:
@@ -20,6 +37,7 @@ This will enable the marketing team to:
 - Understand audience engagement patterns.
 
 ## Data Overview
+
 This dataset represents Meta Ads Performance Data, covering campaigns, ads, user demographics, and ad interaction events. It is modelled after how Facebook/Instagram (Meta) ad platforms capture data.
 
 The purpose of this dataset is to analyse advertising performance, optimize targeting, and measure ROI (Return on Investment) through KPIs such as:
@@ -171,5 +189,5 @@ Ads are performing strongly in visibility and engagement, but actual purchase ef
  - Modelling
  - Analysis
 
-(Jump to Top)[#social-media-marketing-analysis]
+(Jump to Top)[#executive-summary]
 
