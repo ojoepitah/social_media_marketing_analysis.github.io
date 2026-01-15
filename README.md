@@ -148,11 +148,11 @@ Key insights and findings is consistent across both platforms (Facebook and Inst
 
 ## Facebook Analysis
 
-!(Facebook)[Facebook_Analysis.JPG]
+![Facebook](Facebook_Analysis.JPG)
 
 ## Instagram Analysis
 
-!(Instagram)[Instagram_Analysis.JPG]
+![Instagram](Instagram_Analysis.JPG)
 
 ## Tools and Technologies Used
  - Power BI
