@@ -1,22 +1,14 @@
 # Social Media Marketing Analysis
 
 ## Table of Content
-
-[Executive Summary](#executive-summary)
-
-[Summary Insights and Findings](#summary-insights-and-findings)
-
-[Project Objective](#project-objective)
-
-[Data Overview](#data-overview)
-
-[Key Insights and Findings](#key-insights-and-findings)
-
-[Recommendations](#recommendations)
-
-[Tools and Technologies Used](#tools-and-technologies-used)
-
-[How This Project Demonstrates My Skills](#how-this-project-demonstrates-my-skills)
+- [Executive Summary](#executive-summary)
+- [Summary Insights and Findings](#summary-insights-and-findings)
+- [Project Objective](#project-objective)
+- [Data Overview](#data-overview)
+- [Key Insights and Findings](#key-insights-and-findings)
+- [Recommendations](#recommendations)
+- [Tools and Technologies Used](#tools-and-technologies-used)
+- [How This Project Demonstrates My Skills](#how-this-project-demonstrates-my-skills)
 
 ## Executive Summary
 This project analyses paid advertising performance across Facebook and Instagram to evaluate campaign effectiveness, audience behaviour, and return on ad spend. Using Meta Ads performance data, I built a structured data model and Power BI dashboard to track key KPIs including reach, engagement, conversions, and efficiency metrics.
